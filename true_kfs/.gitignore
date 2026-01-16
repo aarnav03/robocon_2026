@@ -1,0 +1,9 @@
+#python
+__pycache__/
+venv/
+
+#env files
+.env
+
+#dataset(not including for now)
+dataset/
