@@ -6,7 +6,7 @@ Simple symbol classifier using OpenCV feature extraction and a classical ML mode
 
 ## Usage
 ```bash
-python shape_classifier.py
+python sym_classifier.py
 ````
 
 Training images are expected in the `dataset/` directory.
